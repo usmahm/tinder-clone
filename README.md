@@ -1,3 +1,3 @@
 ## Tinder App clone
 
-Basically to test my new React skills
+I built this tinder clone to test my React Knowledge
